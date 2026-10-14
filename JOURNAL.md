@@ -10,7 +10,7 @@
 
 | Week | Tier | Hours logged | Entries |
 | --- | --- | --- | --- |
-| Week 2 | Tier 2 | 0.3h | 1 |
+| Week 2 | Tier 2 | 0.2h | 1 |
 
 ## Contents
 
@@ -20,12 +20,12 @@
 
 ### 2026-10-14 – I started off by starting a Github repository and linking it to this platform , then i chose my first project that was an obstacle avoiding robot. First i did a rough sketch of the robot
 
-**0.3h**
+**0.2h**
 
 I started off by starting a Github repository and linking it to this platform , then i chose my first project that was an obstacle avoiding robot. First i did a rough sketch of the robot
 
 ![diagram](https://halflife.hackclub-assets.com/hackclub-half-life/sessions/wwGzHRXvP2JYqVOTWchrfZeAXvzS7fxy/685be8ec68bb2b4c96b7885212edfa4a8ccf03e859a6cbe4ea0a953f9d764368.png)
 
-![demo](https://halflife.hackclub-assets.com/hackclub-half-life/sessions/wwGzHRXvP2JYqVOTWchrfZeAXvzS7fxy/2b786b498d101cf72883450c0416dd966dd99102c325556c2048b45e6bf256e7.jpg)
+![screen](https://halflife.hackclub-assets.com/hackclub-half-life/sessions/wwGzHRXvP2JYqVOTWchrfZeAXvzS7fxy/233a37d586961a157b982724d900ee5da612748d4b6f0ad47e9be7c37d6bf9f2.png)
 
 i really enjoyed  doing this project
